@@ -27,7 +27,7 @@ Park Control/ ├── Parking_Space_Control.py # Main detection script ├─�
 
 Clone the repository:
 ```
-git clone https://github.com/moeinnrz/FileLocker.git
+https://github.com/moeinnrz/Smart_Parking_Detection-.git
 ```
 
 ### 🔧 Install dependencies
