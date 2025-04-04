@@ -13,7 +13,16 @@ A computer vision-based parking space detection system built with Python and Ope
 
 ## 📁 Project Structure
 ```
-Park Control/ ├── Parking_Space_Control.py # Main detection script ├── main.py # Alternate script (not used) ├── carPark.mp4 # Sample parking video ├── carParkImg.png # Image for manual marking of spaces ├── CarParkPos # File storing parking spot positions └── .git # Git metadata (if applicable)
+Park Control/
+│
+├── Parking_Space_Control.py   # Main detection script (run this)
+├── main.py                    # Tool for manually marking parking spots
+│
+├── carPark.mp4                # Sample parking lot video
+├── carParkImg.png             # Image used for marking parking areas
+├── CarParkPos                 # Saved parking spot positions (pickle file)
+│
+└── .git                       # Git metadata (if applicable)
 ```
 
 ## 🧰 Requirements
